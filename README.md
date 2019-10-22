@@ -1,5 +1,3 @@
 # Fiveseconds
 
-Hey
-
-Hey Hey
+Hello
